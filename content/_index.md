@@ -27,18 +27,6 @@ sections:
           description: Master pre-training and fine-tuning of large language models
           icon: language
           icon_pack: fas
-        - name: DeepLearning
-          description: Grasp PyTorch, TensorFlow, Gensim, Keras, etc.
-          icon: brain
-          icon_pack: fad
-        - name: Computer Vision
-          description: 2D/3D, yolo, keypoint, image classification, detection, etc.
-          icon: glasses
-          icon_pack: fad
-        - name: full-stack
-          description: Developed both front-end and back-end
-          icon: computer
-          icon_pack: fad
   - block: experience
     content:
       title: Experience
@@ -51,14 +39,6 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: summer intern
-          company: AI and Robotics Center, Hong Kong Institute of Innovation, Chinese Academy of Sciences
-          company_url: 'https://www.cair-cas.org.hk/'
-          #company_logo: cair
-          location: California
-          date_start: '2023-06-07'
-          date_end: '2023-8-15'
-          description: Taught electronic engineering and researched semiconductor physics.
     design:
       columns: '2'
   - block: accomplishments
