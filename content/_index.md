@@ -27,6 +27,18 @@ sections:
           description: Master pre-training and fine-tuning of large language models
           icon: language
           icon_pack: fas
+        - name: DeepLearning
+          description: Grasp PyTorch, TensorFlow, Gensim, Keras, etc.
+          icon: brain
+          icon_pack: fad
+        - name: NLP(LLM/MLLM/NMT/etc.)
+          description: Master pre-training and fine-tuning of large language models
+          icon: language
+          icon_pack: fas
+        - name: NLP(LLM/MLLM/NMT/etc.)
+          description: Master pre-training and fine-tuning of large language models
+          icon: language
+          icon_pack: fas
   - block: experience
     content:
       title: Experience
