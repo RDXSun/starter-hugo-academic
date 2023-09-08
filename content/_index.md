@@ -15,17 +15,17 @@ sections:
     content:
       title: Skills
       items:
-        - name: R
-          description: 90%
-          icon: r-project
-          icon_pack: fab
-        - name: Statistics
-          description: 100%
-          icon: chart-line
+        - name: C/C++/Java
+          description: Good
+          icon: code
           icon_pack: fas
-        - name: Photography
-          description: 10%
-          icon: camera-retro
+        - name: Python
+          description: Master
+          icon: python
+          icon_pack: fas
+        - name: NLP(LLM/MLLM/NMT/etc.)
+          description: Master pre-training and fine-tuning of large models
+          icon: language
           icon_pack: fas
   - block: experience
     content:
