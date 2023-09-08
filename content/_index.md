@@ -53,7 +53,7 @@ sections:
       items:
         - title: summer intern
           company: AI and Robotics Center, Hong Kong Institute of Innovation, Chinese Academy of Sciences
-          company_url: 'https://www.cair-cas.org.hk/'
+          #company_url: 'https://www.cair-cas.org.hk/'
           #company_logo: cair
           location: California
           date_start: '2023-06-07'
