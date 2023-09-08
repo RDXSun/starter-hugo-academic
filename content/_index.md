@@ -51,6 +51,14 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - title: summer intern
+          company: AI and Robotics Center, Hong Kong Institute of Innovation, Chinese Academy of Sciences
+          company_url: 'https://www.cair-cas.org.hk/'
+          #company_logo: cair
+          location: California
+          date_start: '2023-06-07'
+          date_end: '2023-8-15'
+          description: Taught electronic engineering and researched semiconductor physics.
     design:
       columns: '2'
   - block: accomplishments
