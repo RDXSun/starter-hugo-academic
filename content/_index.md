@@ -51,26 +51,13 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: Research Assistant
-          company: AI and Robotics Center, Hong Kong Institute of Innovation, Chinese Academy of Sciences
-          company_url: 'https://www.cair-cas.org.hk/'
-          #company_logo: cair
-          location: HONG KONG
-          date_start: '2023-10-1'
-          date_end: ''
-          description: |2-
-              Responsibilities include:
-
-              * Responsible for the development of multimodal large models (Foundation Models), involving modalities such as video and text
-              * Combined with medical and surgical scenarios, develop technical solutions for the integration of various surgical tasks and the migration of downstream tasks
-              * Responsible for the implementation, deployment, code review and acceptance of related project plans
         - title: summer intern
           company: AI and Robotics Center, Hong Kong Institute of Innovation, Chinese Academy of Sciences
           company_url: 'https://www.cair-cas.org.hk/'
           #company_logo: cair
           location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
+          date_start: '2023-06-07'
+          date_end: '2023-8-15'
           description: Taught electronic engineering and researched semiconductor physics.
     design:
       columns: '2'
