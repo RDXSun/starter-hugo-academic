@@ -54,7 +54,7 @@ sections:
         - title: Research Assistant
           company: AI and Robotics Center, Hong Kong Institute of Innovation, Chinese Academy of Sciences
           company_url: 'https://www.cair-cas.org.hk/'
-          company_logo: 'https://s2.loli.net/2023/09/08/CFBMr8hOtuo9Apg.png'
+          company_logo: cair
           location: HONG KONG
           date_start: '2023-10-1'
           date_end: ''
@@ -67,7 +67,7 @@ sections:
         - title: summer intern
           company: AI and Robotics Center, Hong Kong Institute of Innovation, Chinese Academy of Sciences
           company_url: 'https://www.cair-cas.org.hk/'
-          #company_logo: 'https://s2.loli.net/2023/09/08/CFBMr8hOtuo9Apg.png'
+          #company_logo: cair
           location: California
           date_start: '2016-01-01'
           date_end: '2020-12-31'
