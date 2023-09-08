@@ -77,8 +77,8 @@ sections:
               * Responsible for the development of front-end and back-end web systems for the Surgical Large Language Model
               * Responsible for the speech and vision modules of the Multimodal Large Language Model
               * Responsible for instrumentation critical point detection in dense scenarios
-      columns: '1'
-#  - block: accomplishments
+      columns: '2'
+  - block: accomplishments
 #    content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
 #      title: 'Accomplish&shy;ments'
