@@ -29,8 +29,8 @@ sections:
           icon_pack: fas
         - name: DeepLearning
           description: Grasp PyTorch, TensorFlow, Gensim, Keras, etc.
-          icon: brain
-          icon_pack: fad
+          icon: language
+          icon_pack: fas
         - name: Computer Vision
           description: 2D/3D, yolo, keypoint, image classification, detection, etc.
           icon: glasses
