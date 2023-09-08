@@ -39,23 +39,23 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
-          company_url: ''
-          company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
+        - title: Research Assistant
+          company: AI and Robotics Center, Hong Kong Institute of Innovation, Chinese Academy of Sciences
+          company_url: 'https://www.cair-cas.org.hk/'
+          company_logo: 'https://s2.loli.net/2023/09/08/CFBMr8hOtuo9Apg.png'
+          location: HONG KONG
+          date_start: '2023-10-1'
           date_end: ''
           description: |2-
               Responsibilities include:
 
-              * Analysing
-              * Modelling
-              * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
-          company_url: ''
-          company_logo: org-x
+              * Responsible for the development of multimodal large models (Foundation Models), involving modalities such as video and text
+              * Combined with medical and surgical scenarios, develop technical solutions for the integration of various surgical tasks and the migration of downstream tasks
+              * Responsible for the implementation, deployment, code review and acceptance of related project plans
+        - title: summer intern
+          company: AI and Robotics Center, Hong Kong Institute of Innovation, Chinese Academy of Sciences
+          company_url: 'https://www.cair-cas.org.hk/'
+          #company_logo: 'https://s2.loli.net/2023/09/08/CFBMr8hOtuo9Apg.png'
           location: California
           date_start: '2016-01-01'
           date_end: '2020-12-31'
