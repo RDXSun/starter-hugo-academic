@@ -22,7 +22,7 @@ sections:
         - name: Python
           description: Master
           icon: python
-          icon_pack: fas
+          icon_pack: fab
         - name: NLP(LLM/MLLM/NMT/etc.)
           description: Master pre-training and fine-tuning of large models
           icon: language
