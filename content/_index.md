@@ -53,10 +53,10 @@ sections:
       items:
         - title: Research Assistant
           company: Centre for Artificial Intelligence and Robotics (CAIR) Hong Kong Institute of Science & Innovation, Chinese Academy of Sciences (HKISI-CAS)
-          company_url: ''
-          company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
+          company_url: 'https://www.cair-cas.org.hk/'
+          company_logo: cair
+          location: Hong Kong
+          date_start: '2023-10-1'
           date_end: ''
           description: |2-
               Responsibilities include:
