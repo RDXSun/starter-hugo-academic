@@ -119,7 +119,7 @@ sections:
       columns: '2'
 #  - block: collection
 #    id: posts
-    content:
+#    content:
       title: Recent Posts
       subtitle: ''
       text: ''
