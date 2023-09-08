@@ -55,8 +55,8 @@ sections:
           company: Centre for Artificial Intelligence and Robotics (CAIR) Hong Kong Institute of Science & Innovation, Chinese Academy of Sciences (HKISI-CAS)
           company_url: 'https://www.cair-cas.org.hk'
           company_logo: cair
-          location: HongKong
-          date_start: '2023-10-1'
+          location: Hong Kong
+          date_start: '2023-10-01'
           date_end: ''
           description: |2-
               Responsibilities include:
