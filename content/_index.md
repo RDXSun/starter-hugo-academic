@@ -31,14 +31,14 @@ sections:
           description: Grasp PyTorch, TensorFlow, Gensim, Keras, etc.
           icon: brain
           icon_pack: fad
-        - name: NLP(LLM/MLLM/NMT/etc.)
-          description: Master pre-training and fine-tuning of large language models
-          icon: language
-          icon_pack: fas
-        - name: NLP(LLM/MLLM/NMT/etc.)
-          description: Master pre-training and fine-tuning of large language models
-          icon: language
-          icon_pack: fas
+        - name: Computer Vision
+          description: 2D/3D, yolo, keypoint, image classification, detection, etc.
+          icon: glasses
+          icon_pack: fad
+        - name: full-stack
+          description: Developed both front-end and back-end
+          icon: computer
+          icon_pack: fad
   - block: experience
     content:
       title: Experience
