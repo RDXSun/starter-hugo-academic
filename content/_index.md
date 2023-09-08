@@ -61,18 +61,22 @@ sections:
           description: |2-
               Responsibilities include:
 
-              * Analysing
-              * Modelling
-              * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
-          company_url: ''
-          company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
-    design:
+              * Responsible for the development of multimodal large models (Foundation Models), involving modalities such as video and text
+              * Combined with medical and surgical scenarios, develop technical solutions for the integration of various surgical tasks and the migration of downstream tasks
+              * Responsible for the implementation, deployment, code review and acceptance of related project plans
+        - title: Summer Intern
+          company: Centre for Artificial Intelligence and Robotics (CAIR) Hong Kong Institute of Science & Innovation, Chinese Academy of Sciences (HKISI-CAS)
+          company_url: 'https://www.cair-cas.org.hk'
+          company_logo: cair
+          location: Hong Kong
+          date_start: '2023-06-27'
+          date_end: '2023-08-15'
+          description: |2-
+              Responsibilities include:
+
+              * Responsible for the development of front-end and back-end web systems for the Surgical Large Language Model
+              * Responsible for the speech and vision modules of the Multimodal Large Language Model
+              * Responsible for instrumentation critical point detection in dense scenarios
       columns: '1'
   - block: accomplishments
     content:
