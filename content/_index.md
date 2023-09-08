@@ -24,7 +24,7 @@ sections:
           icon: python
           icon_pack: fab
         - name: NLP(LLM/MLLM/NMT/etc.)
-          description: Master pre-training and fine-tuning of large models
+          description: Master pre-training and fine-tuning of large language models
           icon: language
           icon_pack: fas
   - block: experience
