@@ -54,7 +54,7 @@ sections:
         - title: Research Assistant
           company: AI and Robotics Center, Hong Kong Institute of Innovation, Chinese Academy of Sciences
           company_url: 'https://www.cair-cas.org.hk/'
-          company_logo: cair
+          #company_logo: cair
           location: HONG KONG
           date_start: '2023-10-1'
           date_end: ''
