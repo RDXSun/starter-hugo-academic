@@ -61,9 +61,9 @@ sections:
           description: |2-
               Responsibilities include:
 
-              * Responsible for the development of multimodal large models (Foundation Models), involving modalities such as video and text
-              * Combined with medical and surgical scenarios, develop technical solutions for the integration of various surgical tasks and the migration of downstream tasks
-              * Responsible for the implementation, deployment, code review and acceptance of related project plans
+              * Responsible for the research and development of agents specifically designed for the surgical field and related applications. These include Multimodal Large Language Models (MLLM), specialized surgical text-based large language models (LLM), and Retrieval-Augmented Generation (RAG) methods, all aimed at expanding the knowledge boundaries of LLMs.
+              * Responsible for conducting research on the segmentation and detection of anatomical structures and surgical instruments in clinical and surgical scenarios, with a primary focus on aiding in the diagnosis of abnormalities and providing surgical assistance.
+              * Responsible for formulating technical solutions that integrate various surgical tasks with medical and surgical scenarios. This involves developing adaptive methods that facilitate the transition of downstream tasks across diverse surgical contexts, thereby enhancing procedural efficiency and contributing to the advancement of surgical practices.
         - title: Summer Intern
           company: Centre for Artificial Intelligence and Robotics (CAIR) Hong Kong Institute of Science & Innovation, Chinese Academy of Sciences (HKISI-CAS)
           company_url: 'https://www.cair-cas.org.hk'
@@ -74,9 +74,9 @@ sections:
           description: |2-
               Responsibilities include:
 
-              * Responsible for the development of front-end and back-end web systems for the Surgical Large Language Model
-              * Responsible for the speech and vision modules of the Multimodal Large Language Model
-              * Responsible for instrumentation critical point detection in dense scenarios
+              * Responsible for the development of front-end and back-end web systems for the Surgical Large Language Model.
+              * Responsible for the speech and vision modules of the Multimodal Large Language Model.
+              * Responsible for keypoints detection of instrumentation in dense scenarios.
       columns: '2'
 #  - block: accomplishments
 #    content:
