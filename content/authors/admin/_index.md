@@ -14,15 +14,15 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Rookie of Artificial Intelligence
+role: Research Assistant
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: City University of HongKong
-    url: https://www.cityu.edu.hk/
+  - name: Centre for Artificial Intelligence and Robotics (CAIR) Hong Kong Institute of Science & Innovation, Chinese Academy of Sciences
+    url: https://www.cair-cas.org.hk/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include NLP(LLM, MLLM), 3D Computer Vision.
+bio: My research interests include NLP(LLM, MLLM, Agent, RAG), Computer Vision.
 
 # Interests to show in About widget
 interests:
@@ -79,5 +79,6 @@ email: ''
 highlight_name: true
 ---
 
-SUN Zhen is a MSc Student in Computer Science in City University of Hong Kong
+
+I am looking for a full award PHD position in Natural Language Processing or Computer Vision.
 {style="text-align: justify;"}

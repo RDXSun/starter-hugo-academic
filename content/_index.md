@@ -32,11 +32,11 @@ sections:
           icon: brain
           icon_pack: fas
         - name: Computer Vision
-          description: 2D, yolo, nnUNet, segmentation, detection, etc.
+          description: 2D, YOLO, nnUNet, Segmentation, Detection, etc.
           icon: glasses
           icon_pack: fas
         - name: full-stack
-          description: Developed both front-end and back-end
+          description: Independently built both the front-end and back-end for Web and Android platforms
           icon: computer
           icon_pack: fas
   - block: experience
