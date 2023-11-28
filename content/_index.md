@@ -8,7 +8,7 @@ sections:
   - block: about.biography
     id: about
     content:
-      title: Biography
+      title: Introduction
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
   - block: features
@@ -32,7 +32,7 @@ sections:
           icon: brain
           icon_pack: fas
         - name: Computer Vision
-          description: 2D/3D, yolo, keypoint, image classification, detection, etc.
+          description: 2D, yolo, nnUNet, segmentation, detection, etc.
           icon: glasses
           icon_pack: fas
         - name: full-stack

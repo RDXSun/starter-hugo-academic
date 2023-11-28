@@ -29,6 +29,8 @@ interests:
   - Artificial Intelligence
   - Natural Language Processing
   - Computer Vision
+  - Medical Image Processing
+  - Deep Learning
 
 # Education to show in About widget
 education:
